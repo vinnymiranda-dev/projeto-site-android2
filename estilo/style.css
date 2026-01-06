@@ -63,6 +63,7 @@ header>p {
     padding-left: 10px;
     padding-right: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
+    margin-bottom: 20px;
 }
 
 nav {
@@ -72,7 +73,7 @@ nav {
 }
 
 nav>a {
-    color: white;
+    color: var(--cor1);
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
